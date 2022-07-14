@@ -16,6 +16,7 @@ add_message_files(
   PoseTarget.msg
   ThrustTorque.msg
   Pwm.msg
+  Voltage.msg
 )
 
 generate_messages(
