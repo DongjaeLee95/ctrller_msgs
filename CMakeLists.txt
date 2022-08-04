@@ -19,6 +19,11 @@ add_message_files(
   Voltage.msg
 )
 
+add_service_files(
+  FILES
+  CommandInt.srv
+)
+
 generate_messages(
   DEPENDENCIES
   std_msgs
