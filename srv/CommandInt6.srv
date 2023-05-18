@@ -1,0 +1,8 @@
+float32 param1 # x
+float32 param2 # y
+float32 param3 # z
+float32 param4 # roll
+float32 param5 # pitch
+float32 param6 # yaw
+---
+bool success

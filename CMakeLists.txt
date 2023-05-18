@@ -22,6 +22,7 @@ add_message_files(
 add_service_files(
   FILES
   CommandInt.srv
+  CommandInt6.srv
 )
 
 generate_messages(
