@@ -23,6 +23,7 @@ add_service_files(
   FILES
   CommandInt.srv
   CommandInt6.srv
+  SetWrench.srv
 )
 
 generate_messages(

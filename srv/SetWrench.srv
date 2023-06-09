@@ -1,0 +1,9 @@
+bool trigger
+float32 fx
+float32 fy
+float32 fz
+float32 taux
+float32 tauy
+float32 tauz
+---
+bool success
