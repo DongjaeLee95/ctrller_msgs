@@ -24,6 +24,7 @@ add_service_files(
   CommandInt.srv
   CommandInt6.srv
   SetWrench.srv
+  ModeInt.srv
 )
 
 generate_messages(
