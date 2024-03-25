@@ -17,6 +17,8 @@ add_message_files(
   ThrustTorque.msg
   Pwm.msg
   Voltage.msg
+  RotorThrust.msg
+  Ctrller_innerVariable.msg
 )
 
 add_service_files(
